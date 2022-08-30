@@ -43,8 +43,7 @@ The proyect includes a simple application to visualized the information and the 
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+
+[Repository](https://github.com/sergiomanzo/Choose_and_move)  
+[Slides](https://docs.google.com/presentation/d/1DDgvDwkGe-ewJ233CZhAxUxHcKwywZw0t_I8NAIHOmU/edit?usp=sharing) 
